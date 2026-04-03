@@ -26,6 +26,8 @@ Despite its high accuracy, the model has certain limitations. It may struggle wi
 
 In conclusion, this project successfully demonstrates how machine learning can be applied to solve practical problems like spam detection. It highlights key steps such as data preprocessing, feature extraction, model training, and evaluation. The results confirm that machine learning models can effectively automate the process of filtering unwanted messages, making communication systems more secure and efficient.
 
-##OUTPUT
+## OUTPUT
+
+<img width="930" height="251" alt="Image" src="https://github.com/user-attachments/assets/d86cd35a-d8f4-4947-b5b2-58208e5dde69" />
 
 
